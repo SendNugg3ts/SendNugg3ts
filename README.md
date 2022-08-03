@@ -1,4 +1,4 @@
-- 😎 Hi, I’m @SendNugg3ts
+- 😎 Hi, I’m @SendNugg3ts or more known as Luís Silva, I’m 21 and love video games
 - 👀 I’m interested in Data Science and Machine Learning
 - 👻 I finished my degree in Applied Statistics and I’m currently working on my master degree in Math and Computer Science
 - 📫 How to reach me: luis.fmsilva@hotmail.com
