@@ -1,6 +1,6 @@
 - 😎 Hi, I’m @SendNugg3ts
 - 👀 I’m interested in Data Science and Machine Learning
-- 👻 I finished my degree in Applied Statistics and I’m currently working on my master degree in Math and Computer Cience
+- 👻 I finished my degree in Applied Statistics and I’m currently working on my master degree in Math and Computer Science
 - 📫 How to reach me: luis.fmsilva@hotmail.com
 
 <!---
