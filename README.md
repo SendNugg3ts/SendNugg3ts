@@ -14,4 +14,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sendnugg3ts&theme=blue-green" alt="sendnugg3ts" /></p>
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sendnugg3ts&theme=blue-green" alt="sendnugg3ts" /></p>
+<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 
